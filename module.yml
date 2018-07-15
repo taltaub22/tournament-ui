@@ -1,0 +1,5 @@
+api: '1.0'
+name: 'tournament-ui'
+version: '0.0.1'
+type: 'node'
+script: 'ng build --prod && yarn start index'
